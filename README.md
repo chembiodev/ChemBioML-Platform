@@ -1,1 +1,1 @@
-# ChemBioML-Platform
+# ChemBioML Platform
