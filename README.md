@@ -7,7 +7,7 @@ ChemBioML is an advanced, user-friendly machine learning platform designed for s
 
 Automated data preprocessing
 
-Comprehensive supervised and unsupervised ML algorithms
+Comprehensive supervised ML algorithms
 
 Advanced model tuning with genetic algorithms
 
