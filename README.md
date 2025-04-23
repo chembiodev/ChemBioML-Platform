@@ -33,4 +33,5 @@ Documentation is available at https://chembioml.com/documentation/
 This proprietary version of ChemBioML Platform requires appropriate licensing agreements for commercial or academic use https://chembioml.com/license/. Contact us at support@chembioml.com for licensing information and custom deployments.
 
 ## Open-Source
-Open-Source version is available in repository https://github.com/chembiodev/ChemBioML-Platform-OS and can be installed via command pip install -U chembioml
+Open-Source version is available in repository https://github.com/chembiodev/ChemBioML-Platform-OS and can be installed via command:
+pip install -U chembioml
